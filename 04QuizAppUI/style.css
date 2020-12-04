@@ -17,7 +17,7 @@ body {
 
 .quiz-container {
     background-color: #fff;
-    border-radius: 10px;
+    border-radius: 11px;
     box-shadow: 0 0 10px 5px rgba(100, 100, 100, .1);
     width: 600px;
     max-width: 100%;
