@@ -26,7 +26,7 @@ canvas {
     border-radius: 10px;
 }
 
-/* everything beside toolbox */
+/* Everything beside toolbox */
 .toolbox > * {
     padding: 0.25rem;
     background-color: #fff;
