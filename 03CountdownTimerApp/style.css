@@ -27,7 +27,7 @@ h1 {
 
 .countdown-container {
     display: flex;
-    /* mobile responsive */
+    /* mobile Responsive */
     flex-wrap: wrap;
     align-items: center;
     justify-content: center;
