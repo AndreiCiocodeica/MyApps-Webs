@@ -56,7 +56,7 @@ form {
     cursor: pointer;
 }
 
-/* for toggle */
+/* For toggle */
 .todos li.completed {
     text-decoration: line-through;
     color: #d5d5d5;
